@@ -79,6 +79,7 @@ section{
     justify-content: space-between;
     gap:35px;
     background-color: black;
+    background-image: url(image\pexels-marta-branco-1194713.jpg);
    
 }
 .home-img{
@@ -242,14 +243,16 @@ color: #262fe2;
     width: 100%;
     border-radius: 12px;
     margin-bottom: 1.4rem;
+    float:right;
 }
 .row.A{
     height: auto;
     width: 100%;
     border-radius: 12px;
     margin-bottom: 1.4rem;
-    float: left;
+
 }
+
 .row.B{
     height: auto;
     width: 100%;
